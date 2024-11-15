@@ -1,0 +1,24 @@
+fonts:
+  - Indie Flower
+  - Kalam
+  - Amatic SC
+  - Shadows Into Light
+  - Caveat
+  - Caveat Brush
+  - Nothing You Could Do
+textBlockStyles:
+  - Text
+  - Paragraph
+keepOriginalText: true
+randomOffset:
+  min: 0
+  max: 6
+roughness:
+  min: 0
+  max: 3
+bowing:
+  min: 0
+  max: 5
+strokeWidth:
+  min: 1
+  max: 4
